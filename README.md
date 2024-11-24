@@ -1,6 +1,6 @@
 ## Shola Forbes
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I’m a Software Developer with a background in marketing, programme management, and e-commerce, now expanding my technical skills through the Makers Academy bootcamp. I’m passionate about creating solutions that amplify the voices and representation of underrepresented groups. Currently, I’m combining my interest in Formula 1, motorsports, and tech by developing a Motorsports Platform to increase the visibility of young women in the field. The platform uses APIs to showcase real-time scores and provides valuable resources to support their growth and development.
 
 ## Projects
 
@@ -11,7 +11,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Unrest** (Aug '22 – Aug '24)  
+**Unrest - Aug '22 – Aug '24**
 _Programme Coordinator_
 
 - Led operations for a 16-week startup accelerator programme, improving programme satisfaction by 25% through strategic planning and problem-solving.
@@ -19,14 +19,14 @@ _Programme Coordinator_
 - Managed budgets and optimised resource allocation, ensuring financial efficiency while delivering high-impact programme milestones.
 - Orchestrated bi-annual Demo Day events for 200+ VIPs, handling logistics and technical coordination to highlight programme success.
 
-**The Fold London** (Mar '21 – Aug '22)  
+**The Fold London - Mar '21 – Aug '22**
 _E-Commerce Coordinator_
 
 - Developed and maintained 60+ web pages using HTML and CSS, integrating UX/UI principles to enhance user engagement and responsive design.
 - Led sprints and applied Agile methodologies to launch 200+ products, ensuring timely and high-quality delivery.
 - Diagnosed and resolved technical issues on the online store, strengthening debugging and troubleshooting skills for a seamless user experience.
 
-**Fashion for Good** (Feb '19 – Aug '19)  
+**Fashion for Good - Feb '19 – Aug '19**
 _Digital Marketing & Events Intern_
 
 - Supported digital marketing campaigns, analysing data to refine strategies and improve audience engagement across social platforms.
