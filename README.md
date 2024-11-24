@@ -51,7 +51,7 @@ I have always been highly organised, able to juggle multiple projects and priori
 ## Education
 
 #### Makers Academy (current)
-Software Engineering Bootcamp (16 weeks)
+Software Engineering Bootcamp
 
 - Gained hands-on experience developing full-stack web applications, using React for dynamic UIs and PostgreSQL for database management.
 - Applied TDD to write clean, robust code and collaborated in Agile teams to deliver projects.
