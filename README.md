@@ -9,6 +9,34 @@ I’m a Software Developer with a background in marketing, programme management,
 | **MakersBnB (Airbnb clone)** | A full-stack web application mimicking core Airbnb features, including user authentication, booking functionality, and dynamic listings. | Python, JavaScript, PostgreSQL, React, Test-Driven Development (TDD) |
 | **Networking & Event Management Platform on** | Developed as part of a group project, this platform connects women in tech for networking and event management. | HTML, CSS, JavaScript              |
 
+
+## Education
+
+#### Makers Academy (current)
+Software Engineering Bootcamp
+
+- Gained hands-on experience developing full-stack web applications, using React for dynamic UIs and PostgreSQL for database management.
+- Applied TDD to write clean, robust code and collaborated in Agile teams to deliver projects.
+- Strengthened debugging and deployment skills in cloud environments.
+
+
+**Programming Languages:** Python, JavaScript
+**Web Development:** HTML, CSS, Bootstrap
+**Databases:** PostgreSQL, SQL
+**Tools & Practices:** Git Version Control, GitHub, Agile, Test-Driven Development (TDD), Pair Programming
+**Software Design:** Object-Oriented Programming (OOP), Cloud Deployment, Debugging, Software Architecture
+
+
+#### Code First Girls | Jun '24 – Aug '24
+Intro to Web Development, sponsored by Sainsbury's
+- Completed an 8-week course aimed at refining web development skills, including HTML, CSS, and JavaScript.
+- Awarded a Highly Commended Candidate certificate for my group project, where we developed a networking and event management platform for women in tech.
+
+
+#### University of Leeds (2016 – 2020)
+BA in Fashion Marketing (First Class Honours)
+
+
 ## Work Experience
 
 **Unrest - Aug '22 – Aug '24**
@@ -46,27 +74,6 @@ My project coordination skills have been strengthened through years of experienc
 
 #### Time Management
 I have always been highly organised, able to juggle multiple projects and priorities without sacrificing quality. During my time at The Fold London, I managed the online store while simultaneously leading product launches and troubleshooting technical issues. This required me to prioritise tasks effectively and allocate my time in a way that ensured both quick issue resolution and timely project delivery. At Makers Academy, this skill has been further honed as I balance the demands of bootcamp projects with collaborative team work, ensuring all tasks are completed to a high standard and on time.
-
-
-## Education
-
-#### Makers Academy (current)
-Software Engineering Bootcamp
-
-- Gained hands-on experience developing full-stack web applications, using React for dynamic UIs and PostgreSQL for database management.
-- Applied TDD to write clean, robust code and collaborated in Agile teams to deliver projects.
-- Strengthened debugging and deployment skills in cloud environments.
-
-
-**Programming Languages:** Python, JavaScript
-**Web Development:** HTML, CSS, Bootstrap
-**Databases:** PostgreSQL, SQL
-**Tools & Practices:** Git Version Control, GitHub, Agile, Test-Driven Development (TDD), Pair Programming
-**Software Design:** Object-Oriented Programming (OOP), Cloud Deployment, Debugging, Software Architecture
-
-#### University of Leeds (2016 – 2020)
-BA in Fashion Marketing (First Class Honours)
-
 
 
 ## Hobbies
