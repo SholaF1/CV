@@ -72,4 +72,5 @@ BA in Fashion Marketing (First Class Honours)
 ## Hobbies
 
 **Community Involvement:** Active member of the Coding Black Females and Redefine the Code communities, passionate about supporting and uplifting women in tech through mentorship and advocacy.
+
 **Personal Project:** Currently developing a Motorsports Platform dedicated to increasing the representation of young women in karting and motorsports. The platform integrates APIs to display real-time karting and motorsport scores, while also providing resources and support to help women advance in the field. The project aims to create a digital space that empowers women in motorsports, promoting inclusivity and visibility.
