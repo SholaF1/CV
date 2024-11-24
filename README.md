@@ -1,6 +1,6 @@
 ## Shola Forbes
 
-I’m a Software Developer with a background in marketing, programme management, and e-commerce, now expanding my technical skills through the Makers Academy bootcamp. I’m passionate about creating solutions that amplify the voices and representation of underrepresented groups. Currently, I’m combining my interest in Formula 1, motorsports, and tech by developing a Motorsports Platform to increase the visibility of young women in the field. The platform uses APIs to showcase real-time scores and provides valuable resources to support their growth and development.
+I’m a Software Developer with a background in marketing, programme management, and e-commerce, now expanding my technical skills through the Makers Academy bootcamp. I’m passionate about creating solutions that amplify the voices and visibility of underrepresented groups. Currently, I’m combining my interest in Formula 1, motorsports, and tech by developing a Motorsports Platform to increase the visibility of young women in the field. The platform uses APIs to showcase real-time scores and provides valuable resources to support their growth and development.
 
 ## Projects
 
