@@ -2,12 +2,14 @@
 
 I’m a Software Developer with a background in marketing, programme management, and e-commerce, now expanding my technical skills through the Makers Academy bootcamp. I’m passionate about creating solutions that amplify the voices and visibility of underrepresented groups. Currently, I’m combining my interest in Formula 1, motorsports, and tech by developing a Motorsports Platform to increase the visibility of young women in the field. The platform uses APIs to showcase real-time scores and provides valuable resources to support their growth and development.
 
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **MakersBnB (Airbnb clone)** | A full-stack web application mimicking core Airbnb features, including user authentication, booking functionality, and dynamic listings. | Python, JavaScript, PostgreSQL, React, Test-Driven Development (TDD) |
 | **Networking & Event Management Platform on** | Developed as part of a group project, this platform connects women in tech for networking and event management. | HTML, CSS, JavaScript              |
+
 
 
 ## Education
@@ -37,6 +39,7 @@ Intro to Web Development, sponsored by Sainsbury's
 BA in Fashion Marketing (First Class Honours)
 
 
+
 ## Work Experience
 
 **Unrest - Aug '22 – Aug '24**
@@ -61,6 +64,7 @@ _Digital Marketing & Events Intern_
 - Produced monthly analytics reports, providing actionable insights for senior leadership.
 - Organised 10+ events, using digital tools to streamline planning and enhance project coordination.
 
+
 ## Skills
 
 #### Communication
@@ -74,6 +78,7 @@ My project coordination skills have been strengthened through years of experienc
 
 #### Time Management
 I have always been highly organised, able to juggle multiple projects and priorities without sacrificing quality. During my time at The Fold London, I managed the online store while simultaneously leading product launches and troubleshooting technical issues. This required me to prioritise tasks effectively and allocate my time in a way that ensured both quick issue resolution and timely project delivery. At Makers Academy, this skill has been further honed as I balance the demands of bootcamp projects with collaborative team work, ensuring all tasks are completed to a high standard and on time.
+
 
 
 ## Hobbies
