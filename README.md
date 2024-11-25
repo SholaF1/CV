@@ -7,7 +7,7 @@ I’m a Software Developer with a background in marketing, programme management,
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **MakersBnB (Airbnb clone)** | A full-stack web application mimicking core Airbnb features, including user authentication, booking functionality, and dynamic listings. | Python, JavaScript, PostgreSQL, React, Test-Driven Development (TDD) |
+| **MakersBnB (Airbnb clone)** | A full-stack web application mimicking core Airbnb features, including user authentication, booking functionality, and dynamic listings. | Python, PostgreSQL, HTML, Bootstrap, Test-Driven Development (TDD) |
 | **Networking & Event Management Platform on** | Developed as part of a group project, this platform connects women in tech for networking and event management. | HTML, CSS, JavaScript              |
 
 
@@ -23,7 +23,7 @@ Software Engineering Bootcamp
 
 
 **Programming Languages:** Python, JavaScript
-**Web Development:** HTML, CSS, Bootstrap
+**Web Development:** HTML, CSS, React, Node.js, Bootstrap
 **Databases:** PostgreSQL, SQL
 **Tools & Practices:** Git Version Control, GitHub, Agile, Test-Driven Development (TDD), Pair Programming
 **Software Design:** Object-Oriented Programming (OOP), Cloud Deployment, Debugging, Software Architecture
@@ -45,7 +45,7 @@ BA in Fashion Marketing (First Class Honours)
 **Unrest - Aug '22 – Aug '24**
 _Programme Coordinator_
 
-- Led operations for a 16-week startup accelerator programme, improving programme satisfaction by 25% through strategic planning and problem-solving.
+- Led operations for a startup accelerator programme, improving programme satisfaction by 25% through strategic planning and problem-solving.
 - Coordinated recruitment of 100+ speakers and partners, fostering collaboration and aligning resources with programme goals.
 - Managed budgets and optimised resource allocation, ensuring financial efficiency while delivering high-impact programme milestones.
 - Orchestrated bi-annual Demo Day events for 200+ VIPs, handling logistics and technical coordination to highlight programme success.
@@ -53,7 +53,7 @@ _Programme Coordinator_
 **The Fold London - Mar '21 – Aug '22**
 _E-Commerce Coordinator_
 
-- Developed and maintained 60+ web pages using HTML and CSS, integrating UX/UI principles to enhance user engagement and responsive design.
+- Developed and maintained 70+ web pages using HTML and CSS, integrating UX/UI principles to enhance user engagement and responsive design.
 - Led sprints and applied Agile methodologies to launch 200+ products, ensuring timely and high-quality delivery.
 - Diagnosed and resolved technical issues on the online store, strengthening debugging and troubleshooting skills for a seamless user experience.
 
@@ -74,7 +74,7 @@ I have developed strong communication skills throughout my career, especially wh
 In my various roles, I've consistently demonstrated a knack for problem-solving, particularly in high-pressure situations. While working as an E-Commerce Coordinator at The Fold London, I was responsible for troubleshooting and resolving technical issues on the online store. I implemented quick and effective solutions to minimise downtime, using debugging skills that I refined during my software engineering training at Makers Academy. My ability to think critically and apply technical solutions also helped during project development, where I identified bottlenecks and devised strategies to streamline workflows and ensure timely delivery of key product launches.
 
 #### Project Coordination
-My project coordination skills have been strengthened through years of experience managing teams and delivering projects on time. As Programme Coordinator at Unrest, I successfully led a 16-week startup accelerator programme, supporting over 30 startups. I coordinated cross-functional teams, streamlined resources, and optimised workflows to deliver key programme milestones. This experience is directly transferable to my work as a software developer, where I use similar skills to manage project timelines, ensure efficient collaboration, and handle deliverables within Agile environments. Additionally, I led sprints during my time at The Fold London, which has further enhanced my ability to deliver projects efficiently and within deadlines.
+My project coordination skills have been strengthened through years of experience managing teams and delivering projects on time. As Programme Coordinator at Unrest, I successfully led a 16-week startup accelerator programme, supporting over 60 startups. I coordinated cross-functional teams, streamlined resources, and optimised workflows to deliver key programme milestones. This experience is directly transferable to my work as a software developer, where I use similar skills to manage project timelines, ensure efficient collaboration, and handle deliverables within Agile environments. Additionally, I led sprints during my time at The Fold London, which has further enhanced my ability to deliver projects efficiently and within deadlines.
 
 #### Time Management
 I have always been highly organised, able to juggle multiple projects and priorities without sacrificing quality. During my time at The Fold London, I managed the online store while simultaneously leading product launches and troubleshooting technical issues. This required me to prioritise tasks effectively and allocate my time in a way that ensured both quick issue resolution and timely project delivery. At Makers Academy, this skill has been further honed as I balance the demands of bootcamp projects with collaborative team work, ensuring all tasks are completed to a high standard and on time.
